@@ -1,0 +1,5 @@
+[package]
+
+name = "fileio"
+version = "0.0.1"
+authors = ["Igor Sarcevic <igisar@gmail.com>"]
