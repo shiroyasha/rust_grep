@@ -1,10 +1,10 @@
-rust_grep
+rg
 =========
 
 Simple grep like search in RustLang.
 
 Compilation
-===========
+-----------
 
 ```
 cargo build
