@@ -1,5 +1,5 @@
 [package]
 
-name = "fileio"
+name = "rg"
 version = "0.0.1"
 authors = ["Igor Sarcevic <igisar@gmail.com>"]
