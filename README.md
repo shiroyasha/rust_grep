@@ -1,5 +1,4 @@
-rg
-=========
+# Rust Grep - rg
 
 Simple grep like search in RustLang.
 
